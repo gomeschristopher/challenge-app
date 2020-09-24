@@ -3,7 +3,8 @@
   "version": 1,
   "newProjectRoot": "projects",
   "cli": {
-    "defaultCollection": "@nativescript/schematics"
+    "defaultCollection": "@nativescript/schematics",
+    "analytics": "d52b125c-7a9e-495e-9ba1-ff013b345217"
   },
   "projects": {
     "sass-project": {
